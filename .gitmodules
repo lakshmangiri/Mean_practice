@@ -1,0 +1,3 @@
+[submodule "mean-course"]
+	path = mean-course
+	url = https://github.com/lakshmangiri/mean-course.git
